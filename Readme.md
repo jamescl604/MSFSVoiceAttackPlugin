@@ -49,7 +49,7 @@ Other people and work that inspired and helped me accomplish this project:
 6. Restart Voice Attack  and you should be good to go!
 
 #### Optional : Import the example profile
-In the zip file there is an example Voice Attack profile (.vap file) with commands for setting radios and using the variables.  You can copy these commands into you existing profiles if you want or extend the example.
+In the zip file there is an example Voice Attack profile (.vap file) with commands for setting radios and using the variables.  You can copy these commands into your existing profiles if you want or extend the example.
 
 ![Image of importing a profile](content/ImportProfile.jpg)
 
