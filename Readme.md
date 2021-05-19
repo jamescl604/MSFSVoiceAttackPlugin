@@ -88,8 +88,8 @@ These variables are created and updated in Voice Attack whenever you call the pl
 
 | Variable Name                                   | Type    | Example Value        | Comment |
 |-------------------------------------------------|---------|----------------------|---------|
-| MSAgent.PlaneState.Airspeed_Indicated           | double  | 0                    |         |
-| MSAgent.PlaneState.Ambient_Temperature          | double  | 58                   |         |
+| MSAgent.PlaneState.Airspeed_Indicated           | int     | 0                    |         |
+| MSAgent.PlaneState.Ambient_Temperature          | int     | 58                   |         |
 | MSAgent.PlaneState.Apu_Generator_Switch         | int     | False                |         |
 | MSAgent.PlaneState.Atc_Airline                  | string  | Air Canada           |         |
 | MSAgent.PlaneState.Atc_Flight_Number            | string  | F1F3                 |         |
